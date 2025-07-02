@@ -1,2 +1,10 @@
-# DanJanViv
-Hier entsteht ein experimentelles Projekt im Rahmen des DSI – Thema noch offen, Ideen in Arbeit.
+# 🍕 DanJanViv Inc.
+
+Willkommen im Repo von DanJanViv Inc. – unserem DSI-Projektteam.
+
+## Team
+- Daniel  
+- Janik  
+- Vivienne
+
+Mehr folgt bald – wir brainstormen noch.
